@@ -1,8 +1,9 @@
+#++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 # CURSO: Formação Cientista de Dados com R e Python
 # INSTITUIÇÃO: UDEMY
 # ALUNO: LUIS EDUARDO
 # E-MAIL: lebarreiroj@gmail.com
-
+#++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 # Tema: Amostras
 # Sub-Temas: Simples, Extratificada e por Unidade Monetária
